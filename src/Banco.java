@@ -1,7 +1,4 @@
 public class Banco {
-    //Atributos
-
-    //Construtor
 
     public static void main(String[] args) {
 

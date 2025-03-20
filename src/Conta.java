@@ -72,9 +72,6 @@ public abstract class Conta implements ModeloConta {
     }
 
     protected abstract void imprimirExtrato(String cliente, int cpf);
-    
-    public void somarContasCliente(String cliente, int cpf){
-       // double saldoContaCorrente = 
-    }
+
 
 }
